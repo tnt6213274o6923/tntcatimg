@@ -1,0 +1,2 @@
+# tntcatimg
+cat img.tnt
